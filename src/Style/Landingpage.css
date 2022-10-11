@@ -1,0 +1,47 @@
+.myBG {
+  height: 100vh;
+  background: url(../assets/Image/bg/background.jpg);
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px darkslategrey;
+}
+
+.isi {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+  text-shadow: 2px 2px darkslategrey;
+  justify-content: center;
+}
+
+.Trending {
+  height: auto;
+  background: url(../assets/Image/bg/trending.jpg);
+  background-size: cover;
+}
+
+.movieimage {
+  width: 300px;
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.movieWrapper {
+}
+
+.trendingimage {
+  height: 350px;
+}
